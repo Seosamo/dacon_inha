@@ -33,7 +33,3 @@ train.sh
 chmod +x re_inference.sh
 re_inference.sh
 ```
-
-
-
-실행 전, OUTPATH와 INPUTPATH 
