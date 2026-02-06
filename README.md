@@ -1,6 +1,5 @@
 ## 🥇 2024 인하 인공지능 챌린지⠀
-**한국 경제 기사 분석 및 질의응답⠀
-** 모델 개발 대학원생 부문 대상⠀
+**한국 경제 기사 분석 및 질의응답** 모델 개발 대학원생 부문 대상⠀
 
 
 ## ❓ 대회 규칙
@@ -32,7 +31,8 @@ Model Candidate:
 ### Re-Inference
 <img src="/images/image1.png" width="60%">
 
-Re-inference, CoT, stage, self-refining 등 여러 프롬프트 기법을 조합하여 테스트 해 본 결과, re-inference만을 사용한 프롬프트에서 가장 좋은 성능을 보였습니다 👀 
+Re-inference, CoT, stage, self-refining 등 여러 프롬프트 기법을 조합하여 테스트 해 본 결과, 
+re-inference만을 사용한 프롬프트에서 가장 좋은 성능을 보였습니다 👀 
 
    
 ## 🌲모델 사용해보기
