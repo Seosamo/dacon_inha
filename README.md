@@ -21,7 +21,7 @@ Model Candidate:
 * EEVE-Korean-Instruct 10.8B 
 
 <br>
-최종적으로 **EEVE-Korean-Instruct 10.8B **이 Base Model로 선정
+최종적으로 **EEVE-Korean-Instruct 10.8B**이 Base Model로 선정
 <br>
 
 👉학습된 모델은 [HuggingFace](https://huggingface.co/SeoSaMo/Inha-EEVE-10.8B-V1.0) 
