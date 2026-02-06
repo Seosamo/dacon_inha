@@ -1,6 +1,6 @@
 ## 🥇 2024 인하 인공지능 챌린지⠀
 **한국 경제 기사 분석 및 질의응답** 모델 개발 대학원생 부문 대상⠀
-
+<br>
 
 ## ❓ 대회 규칙
 ### 평가방식
@@ -10,7 +10,7 @@
 ### 제약 사항
 * 추론 리소스: 단일 GPU VRAM(48GB) 이내
 * 외부 데이터 사용 불가
-
+<br>
 
 ## 🙋‍♀️ 모델 학습
 Model Candidate:
@@ -19,10 +19,12 @@ Model Candidate:
 * EEVE-Korean 10.8B
 * EEVE-Korean-Instruct 10.8B 
 
+<br>
 최종적으로 **EEVE-Korean-Instruct 10.8B **이 Base Model로 선정
+<br>
 
 👉학습된 모델은 [HuggingFace](https://huggingface.co/SeoSaMo/Inha-EEVE-10.8B-V1.0) 
-
+<br>
 
 ## 🛠 모델 추론 파이프라인
 ### 페르소나 설계
@@ -31,10 +33,9 @@ Model Candidate:
 ### Re-Inference
 <img src="/images/image1.png" width="60%">
 
-Re-inference, CoT, stage, self-refining 등 여러 프롬프트 기법을 조합하여 테스트 해 본 결과, 
-
+Re-inference, CoT, stage, self-refining 등 여러 프롬프트 기법을 조합하여 테스트 해 본 결과, <br>
 re-inference만을 사용한 프롬프트에서 가장 좋은 성능을 보였습니다 👀 
-
+<br>
    
 ## 🌲모델 사용해보기
 
