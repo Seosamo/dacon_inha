@@ -30,7 +30,7 @@ Model Candidate:
 
 ## 🛠 모델 추론 파이프라인
 ### 페르소나 설계
-<img src="/images/image1.png" width="60%">
+<img src="/images/image2.png" width="60%">
 
 ### Re-Inference
 <img src="/images/image1.png" width="60%">
